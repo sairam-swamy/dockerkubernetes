@@ -3,7 +3,8 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 COPY . .
-RUN ./ip.sh
+#RUN ./ip.sh
+ENV REACT_APP_API_URL=http://backend:5000
 RUN npm run build
 
 FROM nginx:alpine
