@@ -1,0 +1,11 @@
+/home/azureuser/ProductAPI/out/ProductAPI
+/home/azureuser/ProductAPI/out/appsettings.Development.json
+/home/azureuser/ProductAPI/out/appsettings.json
+/home/azureuser/ProductAPI/out/ProductAPI.dll
+/home/azureuser/ProductAPI/out/ProductAPI.deps.json
+/home/azureuser/ProductAPI/out/ProductAPI.runtimeconfig.json
+/home/azureuser/ProductAPI/out/ProductAPI.pdb
+/home/azureuser/ProductAPI/out/Microsoft.OpenApi.dll
+/home/azureuser/ProductAPI/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/azureuser/ProductAPI/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/azureuser/ProductAPI/out/Swashbuckle.AspNetCore.SwaggerUI.dll
